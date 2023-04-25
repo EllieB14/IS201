@@ -1,0 +1,36 @@
+ul{
+    font-size: 15px;
+}
+
+    body {
+        background-color: #FFE6E6;
+      }
+      
+body{ 
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body {
+    color: grey;
+  }
+
+
+.fun-facts {
+    font-family:'Times New Roman', Times, serif;
+    color: darkolivegreen;
+  }
+
+.travel {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: darkblue;
+  }
+
+.care {
+    font-family: monospace;
+    color:dodgerblue;
+  }
+
+.move{
+    display: flex;
+    justify-content: center;
+}
